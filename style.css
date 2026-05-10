@@ -12,7 +12,7 @@
     color: #ffffff;
     user-select: none;
     font-size: 0.9em;
-    max-height: 80vh; /* Constrain height */
+    max-height: 160vh; /* Constrain height */
     flex-direction: column; /* Now we only have one display property */
 }
 
