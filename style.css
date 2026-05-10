@@ -12,7 +12,7 @@
     color: #ffffff;
     user-select: none;
     font-size: 0.9em;
-    max-height: 160vh; /* Constrain height */
+    max-height: 80vh; /* Constrain height */
     flex-direction: column; /* Now we only have one display property */
 }
 
@@ -278,7 +278,7 @@
     overflow-y: auto;
     padding-right: 4px;
     min-height: 0;
-    max-height: 300px; /* Limit height for scroll */
+    max-height: 600px; /* Limit height for scroll */
 }
 
 /* Outfits list styling */
